@@ -20,7 +20,7 @@ pip install zeep
 Run the script:
 
 ```bash
-python country_info.py
+python3 country_info.py
 ```
 
 You will be prompted to enter an ISO country code (e.g. `NL` for Netherlands, `US` for the United States). The script will return:
